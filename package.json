@@ -1,0 +1,15 @@
+{
+  "name": "automatizacao-processos",
+  "version": "1.0.0",
+  "description": "Utilizado para otimização de processos repetitivos em navegador.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node monitoramento.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Rodrigues Mietlicki",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.0.1"
+  }
+}
